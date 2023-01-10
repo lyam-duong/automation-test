@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Some rand</name>
+   <tag></tag>
+   <elementGuidId>dcc55571-2be0-4b34-972f-dc1b933827f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id = 'notes' and (text() = 'Some rand' or . = 'Some rand')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#notes</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>73dd8085-3e66-4cea-9f31-8d2ee107296e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>f1a3f91a-3753-45d3-af3e-15bd5df2be84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>notes</value>
+      <webElementGuid>221c976f-fd7d-4c0d-8ab6-f138d3ee5530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input indexstyle__TextAreaWrapper-pt__sc-v8vmuq-1</value>
+      <webElementGuid>d2b747dc-5215-4a1a-9c53-aa4730f18d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Some rand</value>
+      <webElementGuid>c42c6a1f-963e-41e0-9f23-8735d04aa35e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;notes&quot;)</value>
+      <webElementGuid>817b0bb3-5ffa-4a50-83f7-371b9865e14a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'notes' and (text() = 'Some rand' or . = 'Some rand')]</value>
+      <webElementGuid>5730f858-768c-4336-8a3b-d1e3fb056526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='notes']</value>
+      <webElementGuid>12e71eec-24e3-43ee-bf3b-5e7eb41f61ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div/div/div/div/form/div/div/div[2]/div[2]/div/div/textarea</value>
+      <webElementGuid>d61c4652-3a4c-4fd5-84fc-eb4239fe93eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(optional)'])[1]/following::textarea[1]</value>
+      <webElementGuid>a385c60f-b477-4a5b-a80d-dc4c98d4d896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Creator Form'])[1]/following::textarea[1]</value>
+      <webElementGuid>e6b84d39-edef-4a30-8b6f-bdfeddf9ece5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='units'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>2fada84a-9b22-4166-8749-903d139bdac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>37b30853-d04b-459d-bc9f-df7ccc36ca4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Some rand']/parent::*</value>
+      <webElementGuid>053c231e-e291-40e6-9aa6-96ac0acdf06f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>e9118ff6-4063-48d6-bbc8-571fa3485062</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

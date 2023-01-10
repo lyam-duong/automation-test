@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>partner input</name>
+   <tag></tag>
+   <elementGuidId>99f98e10-5ce6-4fc0-901c-eba42219a138</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#rc_select_0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c75040ca-8779-4764-99ff-a5d17280566d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Chargepoint ID</value>
+      <webElementGuid>7355c877-b6a7-4fa2-b55b-80f13ae8d254</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-lg sc-eCImvq gbHenx</value>
+      <webElementGuid>1785b708-db6d-4ca5-b546-ee8a9eeab66e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>be811092-9857-4c1d-af18-f42407119dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sc-bdvvaa fcglcb&quot;]/div[1]/div[@class=&quot;ant-space ant-space-horizontal ant-space-align-center&quot;]/div[@class=&quot;ant-space-item&quot;]/input[@class=&quot;ant-input ant-input-lg sc-eCImvq gbHenx&quot;]</value>
+      <webElementGuid>363c567f-1bb0-4fce-93cd-b27f22e5bb01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>303c7caf-e738-494a-ab7b-5303679f58ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/input</value>
+      <webElementGuid>359ed9ab-43f5-4d96-b771-69412cc3e527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>93ef8063-a785-46df-9fab-5bd9c6ab85f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Chargepoint ID' and @type = 'text']</value>
+      <webElementGuid>9e65ebb3-2e35-443a-a4a9-1ea4612df696</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

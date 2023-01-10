@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input.customers_customerId</name>
+   <tag></tag>
+   <elementGuidId>9ddef754-dcd9-4a8b-afa5-206d8b791f2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='customers']/div[3]/div[2]/div/div/div/div/span/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#customers_customerId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e3b59deb-9d48-41a0-b737-aae1e28a956a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selector</value>
+      <webElementGuid>d26f7409-44fe-4ca6-8f8f-1d53d2ea1f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customers&quot;)/div[@class=&quot;indexstyle__DivFormItemLabelWrapper-pt__sc-30ql0i-0 eHUTeO ant-row ant-form-item mb-0&quot;]/div[@class=&quot;ant-col-16 ant-form-item-control-wrapper ant-col-16 ant-col-md-12 ant-input-order&quot;]/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;select-without-autofill&quot;]/div[@class=&quot;ant-select ant-select-focused ant-select-single ant-select-show-arrow ant-select-show-search&quot;]/div[@class=&quot;ant-select-selector&quot;]</value>
+      <webElementGuid>5598fe7b-ef9a-4577-b634-43abe5d734ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='customers']/div[3]/div[2]/div/div/div/div/span/div/div</value>
+      <webElementGuid>4b1f5ac0-89d5-4ed0-a417-1db6da41e3bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Company Name'])[1]/following::div[7]</value>
+      <webElementGuid>622d71f4-4c43-4816-9011-5db1320e44c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Information'])[1]/following::div[16]</value>
+      <webElementGuid>47ef37c1-d972-417c-a56a-298ba7cae106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload File'])[1]/preceding::div[5]</value>
+      <webElementGuid>1edc0d8e-6910-4e09-b115-15d53d5e08c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[9]</value>
+      <webElementGuid>393fcc11-a7f0-4b51-bea7-75e10303a45c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div</value>
+      <webElementGuid>7d6e82b4-046d-4796-b067-4110800e366f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

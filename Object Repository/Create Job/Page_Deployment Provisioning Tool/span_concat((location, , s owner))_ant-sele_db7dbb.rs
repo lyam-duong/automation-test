@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_concat((location, , s owner))_ant-sele_db7dbb</name>
+   <tag></tag>
+   <elementGuidId>ed3772e8-c609-439a-b3fc-de76d825268d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='customers']/div/div[2]/div/div/div/div/span/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-single.ant-select-show-arrow.ant-select-open.ant-select-show-search > div.ant-select-selector > span.ant-select-selection-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>94360004-a453-46c7-a9a1-b965a6d0448a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>f2f51d1c-0cf4-42e9-9acc-e7b888970881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customers&quot;)/div[@class=&quot;indexstyle__DivFormItemLabelWrapper-pt__sc-30ql0i-0 eHUTeO ant-row ant-form-item mb-0&quot;]/div[@class=&quot;ant-col-16 ant-form-item-control-wrapper ant-col-md-16 ant-input-order&quot;]/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;select-without-autofill&quot;]/div[@class=&quot;ant-select ant-select-single ant-select-show-arrow ant-select-open ant-select-show-search&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-item&quot;]</value>
+      <webElementGuid>028e277e-a636-4072-a918-38e32cc9b3a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='customers']/div/div[2]/div/div/div/div/span/div/div/span[2]</value>
+      <webElementGuid>166f16c0-8976-4f9c-ab98-311675c37de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/span/div/div/span[2]</value>
+      <webElementGuid>9517f601-bf1e-4f32-8ca8-5354d8de8d15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

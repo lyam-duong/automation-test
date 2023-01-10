@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Back to Dashboard</name>
+   <tag></tag>
+   <elementGuidId>fff66e2f-2417-4fc8-abd4-cff75060e606</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Back to Dashboard' or . = 'Back to Dashboard')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>82c6f326-0b23-4e87-8ee2-513ab138361c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>efe60222-3ed5-4250-a6a9-eacdb0a8edf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-lg button__ButtonWrapper-pt__sc-1isy11p-0 dOvqbV _btn primary bold </value>
+      <webElementGuid>51167f2e-072e-46f5-bf6a-ca67dc566e38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to Dashboard</value>
+      <webElementGuid>a4748cc7-4bc2-4bb3-99cd-c2d00a83c995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[1]/div[@class=&quot;mx-auto&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;buttons undefined&quot;]/div[@class=&quot;box-container text-center&quot;]/button[@class=&quot;ant-btn ant-btn-lg button__ButtonWrapper-pt__sc-1isy11p-0 dOvqbV _btn primary bold&quot;]</value>
+      <webElementGuid>546ece0d-0bee-4491-98a5-cbbe29d6dc26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>323ae2be-4b11-4812-aee3-093e79d8feea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div/div/div/div/div/div/button</value>
+      <webElementGuid>7e9dde48-1ebb-4e48-8324-c4d689f1eb26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORDER #1200dd24'])[1]/following::button[1]</value>
+      <webElementGuid>3e3ba551-1675-47da-a01d-9915c9df8429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ha Admin'])[1]/following::button[1]</value>
+      <webElementGuid>8fb8d970-92c2-42b1-9dec-8854242bcd29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>5bfb5c16-2a05-449d-b5a4-939b7ec9d359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Back to Dashboard' or . = 'Back to Dashboard')]</value>
+      <webElementGuid>eaba560d-587b-4ac0-9a3f-a43adf535de1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

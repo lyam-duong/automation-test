@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Create CustomerCompany NameAddressMain_89a11a</name>
+   <tag></tag>
+   <elementGuidId>138e62bc-c8c8-4091-8c2a-7b4a1316c5b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id = 'customers' and (text() = 'Create CustomerCompany NameAddressMain Contact NameMain Contact No.Root Account EmailInput the Root Account EmailBilling Contact NameOffSubmit' or . = 'Create CustomerCompany NameAddressMain Contact NameMain Contact No.Root Account EmailInput the Root Account EmailBilling Contact NameOffSubmit')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#customers</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>950cabbb-71ff-4739-8bb8-0e3441b2f94b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>customers</value>
+      <webElementGuid>74bcecd8-6299-43e2-8f61-009bac2bc00c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>0d292612-cf42-4b3f-a1d2-64f6875e8e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-form ant-form-horizontal</value>
+      <webElementGuid>c698b5ae-eb1b-4b96-ae0b-c461e1c9e9ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create CustomerCompany NameAddressMain Contact NameMain Contact No.Root Account EmailInput the Root Account EmailBilling Contact NameOffSubmit</value>
+      <webElementGuid>cc475161-6808-4619-9248-f6cfaba93818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customers&quot;)</value>
+      <webElementGuid>5b346097-a17a-415b-949b-dcd72b790e9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[@id = 'customers' and (text() = 'Create CustomerCompany NameAddressMain Contact NameMain Contact No.Root Account EmailInput the Root Account EmailBilling Contact NameOffSubmit' or . = 'Create CustomerCompany NameAddressMain Contact NameMain Contact No.Root Account EmailInput the Root Account EmailBilling Contact NameOffSubmit')]</value>
+      <webElementGuid>f3d133cf-9b72-4785-9dec-223369c22635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//form[@id='customers']</value>
+      <webElementGuid>7b01b846-4513-4f2e-8e51-c28f6ac78b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Customer'])[1]/following::form[1]</value>
+      <webElementGuid>6aadfbfa-7f4a-4972-b5c6-a1b26ffd3ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'customers', '&quot;', ')')])[1]/following::form[1]</value>
+      <webElementGuid>626e87e3-f163-4ed2-8cac-f2f63e826313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>619dbb6b-37fe-435b-86bc-283a66d2685a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

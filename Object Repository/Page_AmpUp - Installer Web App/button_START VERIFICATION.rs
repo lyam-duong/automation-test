@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_START VERIFICATION</name>
+   <tag></tag>
+   <elementGuidId>29bc3604-8f3a-44eb-8ad1-c1baa41d5aaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-primary.ant-btn-lg.bold.mt-5.mb-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'START VERIFICATION' or . = 'START VERIFICATION')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7b01a62d-fbcb-4b29-ac34-98d55bf5a241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>97561bbc-ec0b-4598-90c0-2d45b1f1bd0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-primary ant-btn-lg bold mt-5 mb-5</value>
+      <webElementGuid>a6802836-097f-417f-b60a-8cfe75ca46ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>START VERIFICATION</value>
+      <webElementGuid>c13ffa0e-7ab2-451d-9a42-a3dac522f9f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;wrapper&quot;]/div[1]/div[@class=&quot;indexstyle__DivHomePageWrapper-sc-woooxz-0 jxgiEK&quot;]/div[@class=&quot;text-center pt-5 animate__animated animate__fadeIn&quot;]/div[2]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;d-flex justify-content-center&quot;]/button[@class=&quot;ant-btn ant-btn-primary ant-btn-lg bold mt-5 mb-5&quot;]</value>
+      <webElementGuid>5dd30072-2e13-4e8e-b774-71fc157df0d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'START VERIFICATION' or . = 'START VERIFICATION')]</value>
+      <webElementGuid>7976e57d-4f93-484e-aa9c-93ca46bc5112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>b04d099a-82d6-4748-8158-cdad07eb52de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>12d2e22b-5286-4e61-9b60-7834b025b300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make and model:'])[1]/following::button[1]</value>
+      <webElementGuid>cbf68b2e-d7e2-4c6d-820a-d148c28fbeae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of plugs:'])[1]/following::button[1]</value>
+      <webElementGuid>055a5819-380f-4b4c-bc67-010b809e128c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✕'])[1]/preceding::button[1]</value>
+      <webElementGuid>773523c9-14cd-4da5-878b-386f35f74bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>d198fe77-e9f3-47ea-9cd0-9f2609a16da2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

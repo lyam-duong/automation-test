@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_LITE</name>
+   <tag></tag>
+   <elementGuidId>202e50f7-0c58-4b88-854b-c47f3e09d6db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'LITE' or . = 'LITE')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c12cd65f-4f39-4e79-868c-14d3b956c812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-table-cell ant-table-cell-ellipsis ant-table-cell-row-hover</value>
+      <webElementGuid>5cdd413c-be38-4b46-9b53-c945f0fa0718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LITE</value>
+      <webElementGuid>51f17032-a771-4944-9a4e-5201341fddcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;indexstyle__DivChargingStationWrapper-pt__sc-1lfsp9r-0 gYDNZJ&quot;]/div[@class=&quot;mx-auto charging-stations&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-18&quot;]/div[@class=&quot;gutter-row box-container d-flex justify-content-between flex-column&quot;]/div[@class=&quot;indexstyle__DivTableContentWrapper-pt__sc-1lfsp9r-2 kxwWTH&quot;]/div[@class=&quot;mt-4 mb-4&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;indexstyle__DivAntTableWrapper-pt__sc-rbdnka-0 dvoTDN&quot;]/div[@class=&quot;ant-table-wrapper charging-stations-table&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-ping-left ant-table-ping-right ant-table-fixed-header ant-table-fixed-column ant-table-scroll-horizontal ant-table-has-fix-left&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-body&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-ellipsis ant-table-cell-row-hover&quot;]</value>
+      <webElementGuid>085b3b00-4e6e-44c9-83a8-2070e2844c3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'LITE' or . = 'LITE')]</value>
+      <webElementGuid>fd2222e0-cc10-4e9d-a677-afc97da7ff47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div/div/div/div/div/div/div/form/div/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[14]</value>
+      <webElementGuid>1e14cf83-3129-433e-8af6-0efd15635355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test'])[1]/following::td[1]</value>
+      <webElementGuid>ebc0ff8b-5805-4c6d-a356-051994fb9b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/following::td[3]</value>
+      <webElementGuid>69f7c67e-b28b-4b3b-b004-14e257387b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JB3.0-321'])[1]/preceding::td[2]</value>
+      <webElementGuid>6e952b8a-ecb2-417b-9878-4c58e4b01ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHARGER LOG'])[1]/preceding::td[3]</value>
+      <webElementGuid>a8105d5d-6096-4a10-be6b-57a8cef6a542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LITE']/parent::*</value>
+      <webElementGuid>92fb4b87-1fdb-40b6-b2cc-7a2d4da5e266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[14]</value>
+      <webElementGuid>2c1252d3-089c-4ad3-b664-4c4bbb936394</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

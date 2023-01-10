@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Root Account Email_ant-col-16 ant-form-_b9628f</name>
+   <tag></tag>
+   <elementGuidId>cf0e57d3-82af-4698-b1f9-21207ee8a021</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='customers']/div[6]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>532b9990-1cd0-40c0-9302-3a065c92c0b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-col-16 ant-form-item-control-wrapper ant-col-16 ant-input-order</value>
+      <webElementGuid>5fdbdef2-1cab-4160-b411-50172b03e6bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customers&quot;)/div[@class=&quot;indexstyle__DivFormItemLabelWrapper-pt__sc-30ql0i-0 bksure ant-row ant-form-item&quot;]/div[@class=&quot;ant-col-16 ant-form-item-control-wrapper ant-col-16 ant-input-order&quot;]</value>
+      <webElementGuid>47683507-a3ad-40cc-b0f5-8c7c531e8c6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='customers']/div[6]/div[2]</value>
+      <webElementGuid>6c955a18-a1de-4b6f-a4a0-aab29ce1dd60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Root Account Email'])[1]/following::div[1]</value>
+      <webElementGuid>ed8fcb04-0f48-4937-9d2f-6e9525291b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Main Contact No.'])[1]/following::div[8]</value>
+      <webElementGuid>8e8a58d9-d979-40da-b162-581613f6d6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing Contact Name'])[1]/preceding::div[5]</value>
+      <webElementGuid>7e6338fd-7b52-499e-8f75-0e7918d00e4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Off'])[1]/preceding::div[7]</value>
+      <webElementGuid>03c313a0-75e3-45ae-b25f-cd245f64ccf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]</value>
+      <webElementGuid>26a33885-5dea-4b37-9fed-281ccb14d873</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

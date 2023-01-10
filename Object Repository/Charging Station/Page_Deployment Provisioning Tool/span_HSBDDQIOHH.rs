@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_HSBDDQIOHH</name>
+   <tag></tag>
+   <elementGuidId>b767bb16-f7d7-4fe7-ba4a-4a63f0a9cd5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'HSBDDQIOHH' or . = 'HSBDDQIOHH')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-tooltip-open</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>790d61eb-878b-4ca6-911e-76a4d26e7e4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-tooltip-open</value>
+      <webElementGuid>fa1c15b3-1d66-42e2-8a08-7193a7a6f195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HSBDDQIOHH</value>
+      <webElementGuid>2887fa2d-51d7-4eb6-a109-059ef7e6627f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;indexstyle__DivChargingStationWrapper-pt__sc-1lfsp9r-0 gYDNZJ&quot;]/div[@class=&quot;mx-auto charging-stations&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-18&quot;]/div[@class=&quot;gutter-row box-container d-flex justify-content-between flex-column&quot;]/div[@class=&quot;indexstyle__DivTableContentWrapper-pt__sc-1lfsp9r-2 kxwWTH&quot;]/div[@class=&quot;mt-4 mb-4&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;indexstyle__DivAntTableWrapper-pt__sc-rbdnka-0 dvoTDN&quot;]/div[@class=&quot;ant-table-wrapper charging-stations-table&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-ping-right ant-table-fixed-header ant-table-fixed-column ant-table-scroll-horizontal ant-table-has-fix-left&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-body&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-ellipsis ant-table-cell-row-hover&quot;]/span[@class=&quot;ant-tooltip-open&quot;]</value>
+      <webElementGuid>6ba56d1d-9a0b-4066-ba46-0c46da61b20f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'HSBDDQIOHH' or . = 'HSBDDQIOHH')]</value>
+      <webElementGuid>d00b1a84-cb1f-454d-aa95-24fcc5f5beb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div/div/div/div/div/div/div/form/div/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[2]/span</value>
+      <webElementGuid>233a1a6d-fe88-4daf-ac40-820fdde81656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MODEL'])[1]/following::span[8]</value>
+      <webElementGuid>651881d4-1493-4336-b91c-244055133e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONNECTOR ID'])[1]/following::span[13]</value>
+      <webElementGuid>ac56ed43-fe26-4271-b4aa-d2cda65a12ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HSBDDQIOHH'])[2]/preceding::span[1]</value>
+      <webElementGuid>fc76ca2a-ca1c-4238-b350-333f30a6e1af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::span[2]</value>
+      <webElementGuid>29fee7fc-2656-4415-ba21-257d8ca738ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HSBDDQIOHH']/parent::*</value>
+      <webElementGuid>d543a65b-d40b-4b75-bb8a-35b1a3f6c322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span</value>
+      <webElementGuid>a376be18-bbcc-46b1-ab40-8a63b9cf833b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

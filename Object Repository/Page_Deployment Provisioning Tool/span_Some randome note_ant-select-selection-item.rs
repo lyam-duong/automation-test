@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Some randome note_ant-select-selection-item</name>
+   <tag></tag>
+   <elementGuidId>dcbe1ae0-1a28-4279-aac5-b06a9574d38a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-select-selection-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;locationId&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>61747189-da53-47ad-9f7a-13b14232b0fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>0764f391-29b3-4580-92a4-951aa4fdf3f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;indexstyle__DivDeploymentWrapper-pt__sc-1nlz5zm-1 flfHaT&quot;]/div[@class=&quot;indexstyle__DivLocationInfoWrapper-pt__sc-1nlz5zm-2 indexstyle__DevCreateInventoryOrderInfoWrapper-pt__sc-1nlz5zm-3 gFpcHV jSmTBT m-auto&quot;]/form[@class=&quot;ant-form ant-form-horizontal ant-form-hide-required-mark form-locations box-container&quot;]/div[@class=&quot;ant-row justify-content-center&quot;]/div[@class=&quot;ant-col ant-col-20&quot;]/div[@class=&quot;ant-row ant-form-item ant-form-item-has-success&quot;]/div[@class=&quot;ant-col ant-col-14 ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;select-without-autofill&quot;]/div[@class=&quot;ant-select ant-select-single ant-select-show-arrow ant-select-open ant-select-show-search&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-item&quot;]</value>
+      <webElementGuid>430ae4e9-ee20-417a-bd41-8a4365359d70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div/div/div/div/form/div/div/div[4]/div[2]/div/div/span/div/div/span[2]</value>
+      <webElementGuid>b4546486-98bd-4192-9e48-38d89d050714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>99cc5054-4b63-48ea-b88f-90073301cc8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

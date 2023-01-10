@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_2</name>
+   <tag></tag>
+   <elementGuidId>8b233201-b2f7-4be8-b269-c8a9e41ccdcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = '2' or . = '2')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-pagination-item.ant-pagination-item-2 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c6dfa23a-387e-4bac-8fb1-a759b5e4d7e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>e1a09e16-dd47-463f-ad85-1faaeebdb3a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>746ff186-05d3-42f5-85f0-ab3d964ce338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;indexstyle__DivOrdersWrapper-pt__sc-1y1tn00-1 duqIpg customers__order&quot;]/div[@class=&quot;customers__order--wrapper&quot;]/div[@class=&quot;d-flex justify-content-end mt-4&quot;]/ul[@class=&quot;ant-pagination indexstyle__PaginationWrapper-pt__sc-1bdgnc5-0 cHVFvC&quot;]/li[@class=&quot;ant-pagination-item ant-pagination-item-2&quot;]/a[1]</value>
+      <webElementGuid>653be1d9-6ef6-49bf-8d27-bf4422383a51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '2' or . = '2')]</value>
+      <webElementGuid>ccb28b69-45c1-41dc-99f2-9692ca8424f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div/div[3]/div[2]/ul/li[3]/a</value>
+      <webElementGuid>47ad767c-b38c-422f-9b8e-c7219ca7f648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'2')]</value>
+      <webElementGuid>043a6c4e-cf8d-4ce1-9bc1-33598aae02cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::a[2]</value>
+      <webElementGuid>5f1da379-173b-448a-b729-e3cf6ac082ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription Plan'])[9]/following::a[3]</value>
+      <webElementGuid>adb195fd-dacf-45aa-931e-8d860a9343d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::a[2]</value>
+      <webElementGuid>12e59e63-98cc-4b70-8821-f176558822c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2']/parent::*</value>
+      <webElementGuid>1c36e877-8ce3-4523-bbc3-f9e8dd54ded2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>d6256c10-c61a-4180-8fff-e4ed0344054f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

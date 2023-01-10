@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_joint-tech_ant-input ant-input-lg sc-_1f0d9e</name>
+   <tag></tag>
+   <elementGuidId>9a0c1126-d8bd-444d-8336-07a3acaf67d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-input.ant-input-lg.sc-eCImvq.gbHenx</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'Chargepoint ID' and @type = 'text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6ee134ec-0f71-4ebf-b4fd-6ca97a1c41cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Chargepoint ID</value>
+      <webElementGuid>b072a760-b555-4e55-8ea1-31b47087401e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-lg sc-eCImvq gbHenx</value>
+      <webElementGuid>0d255e28-bd41-4af2-9b9c-7bd51836288e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>2e4ec36d-bdbf-4081-8e53-1d199127895d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sc-bdvvaa fcglcb&quot;]/div[1]/div[@class=&quot;ant-space ant-space-horizontal ant-space-align-center&quot;]/div[@class=&quot;ant-space-item&quot;]/input[@class=&quot;ant-input ant-input-lg sc-eCImvq gbHenx&quot;]</value>
+      <webElementGuid>2b237664-6ea1-4abb-9036-19e59f7764a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Chargepoint ID' and @type = 'text']</value>
+      <webElementGuid>40ffe551-d760-41d3-81d9-88cab56196e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>84de4a3f-9d56-4ea1-ba9c-410bd61c766a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/input</value>
+      <webElementGuid>098d1435-1793-4161-a408-89d7587bd829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>9c81b6c9-4ee3-4b65-a22a-5a9dd826936e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

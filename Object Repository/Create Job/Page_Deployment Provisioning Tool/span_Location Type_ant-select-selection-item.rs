@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Location Type_ant-select-selection-item</name>
+   <tag></tag>
+   <elementGuidId>4f2d162a-9b0a-4b85-a0ad-4cc0ee3b203b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='locations']/div[6]/div[2]/div/div/div/div/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.multiple-select.ant-select-single.ant-select-show-arrow.ant-select-open > div.ant-select-selector > span.ant-select-selection-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>acebe937-611e-406d-9168-ab23a1d1d44f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>c36227d5-cec4-4fe5-aff5-ec10ed1307f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;locations&quot;)/div[@class=&quot;indexstyle__DivFormItemLabelWrapper-pt__sc-30ql0i-0 eHUTeO ant-row ant-form-item&quot;]/div[@class=&quot;ant-col-16 ant-form-item-control-wrapper ant-col-15 ant-input-order&quot;]/div[@class=&quot;ant-row ant-form-item ant-form-item-has-success&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-select multiple-select ant-select-single ant-select-show-arrow ant-select-open&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-item&quot;]</value>
+      <webElementGuid>68ba4fea-5338-45d2-b687-e8b3519598e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='locations']/div[6]/div[2]/div/div/div/div/div/div/span[2]</value>
+      <webElementGuid>22f53128-47b3-4505-8cb4-4b2244eef84e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div/div/div/div/span[2]</value>
+      <webElementGuid>65862f9e-b5b8-4c75-8197-79df0b1b53f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

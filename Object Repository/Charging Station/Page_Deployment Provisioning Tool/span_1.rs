@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>1dfeb2ad-a38c-4e4f-a8c4-e1fef56a900d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = '1' or . = '1')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-tooltip-open</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>15b9c952-8ab8-4af9-8673-47e49927aba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-tooltip-open</value>
+      <webElementGuid>8a6c8215-7744-4c11-8ae8-bebf0e7f07fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>301ca10c-f8e4-462f-8421-e627b909b36a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;indexstyle__DivChargingStationWrapper-pt__sc-1lfsp9r-0 gYDNZJ&quot;]/div[@class=&quot;mx-auto charging-stations&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-18&quot;]/div[@class=&quot;gutter-row box-container d-flex justify-content-between flex-column&quot;]/div[@class=&quot;indexstyle__DivTableContentWrapper-pt__sc-1lfsp9r-2 kxwWTH&quot;]/div[@class=&quot;mt-4 mb-4&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;indexstyle__DivAntTableWrapper-pt__sc-rbdnka-0 dvoTDN&quot;]/div[@class=&quot;ant-table-wrapper charging-stations-table&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-ping-left ant-table-fixed-header ant-table-fixed-column ant-table-scroll-horizontal ant-table-has-fix-left&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-body&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-ellipsis ant-table-cell-row-hover&quot;]/span[@class=&quot;ant-tooltip-open&quot;]</value>
+      <webElementGuid>9345e94e-6d53-47d9-8b70-e28b4481de17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>a3192716-6bcd-46b9-b147-3c3d3bc9cc89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div/div/div/div/div/div/div/form/div/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[15]/span</value>
+      <webElementGuid>87efa4ea-8c18-4edb-bf2a-3f0c8fe05839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LITE'])[1]/following::span[1]</value>
+      <webElementGuid>7ded2e2c-595c-4ad4-aaad-d4e07188b623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test'])[1]/following::span[1]</value>
+      <webElementGuid>cd615fb1-05d6-435e-b1af-66b138a56b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JB3.0-321'])[1]/preceding::span[1]</value>
+      <webElementGuid>27d3fedb-11e1-4744-a71c-0f2d0100b98a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHARGER LOG'])[1]/preceding::span[2]</value>
+      <webElementGuid>7572e115-f935-462a-b8b8-633c6c542fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[15]/span</value>
+      <webElementGuid>4a55dd9f-c387-4415-9fd7-288ee32fe299</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

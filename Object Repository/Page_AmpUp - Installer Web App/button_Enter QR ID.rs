@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Enter QR ID</name>
+   <tag></tag>
+   <elementGuidId>f4e8f041-b158-4706-bc22-cac0d32747c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-primary.ant-btn-lg.w-100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Enter QR ID' or . = 'Enter QR ID')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cf2bd630-4ff1-424d-8ef2-1d2f911ac699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ae326638-7923-4423-a382-cc844ee69fc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-primary ant-btn-lg w-100</value>
+      <webElementGuid>28a988f2-3a91-431f-9ef1-b596a1413b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter QR ID</value>
+      <webElementGuid>90cd625c-01dc-4a69-a5ce-de990fac69d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;indexstyle__DivQRScannerWrapper-sc-120822y-0 hxLuSF animate__animated animate__fadeIn&quot;]/div[2]/div[2]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;position-relative qr-scanner-video-wrapper&quot;]/div[@class=&quot;position-relative&quot;]/div[@class=&quot;reader-not-working&quot;]/div[@class=&quot;ant-col ant-col-10&quot;]/div[@class=&quot;ant-row justify-content-center&quot;]/div[@class=&quot;ant-col ant-col-18 mb-3&quot;]/button[@class=&quot;ant-btn ant-btn-primary ant-btn-lg w-100&quot;]</value>
+      <webElementGuid>9bd10338-ca95-40dc-95df-8b1e05bf8a5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Enter QR ID' or . = 'Enter QR ID')]</value>
+      <webElementGuid>3e0279d3-cd2b-4d7d-a4e6-4abe08169023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>0e130f71-609e-44f3-abdb-23187d87bf97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]/div[2]/div/div/div/div/div[4]/div/div[2]/div/button</value>
+      <webElementGuid>31bdfb84-92e9-4cc2-a3ed-8f6ca111c369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Switch Camera'])[1]/following::button[1]</value>
+      <webElementGuid>7b49d9d8-1a8a-4463-b6d8-de55a0328d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scanning will start automatically'])[1]/following::button[1]</value>
+      <webElementGuid>94b1060d-d868-4af6-9a53-09a00e0f1d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>eecb9e85-1a94-4d8d-b5c1-e858f533b9d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

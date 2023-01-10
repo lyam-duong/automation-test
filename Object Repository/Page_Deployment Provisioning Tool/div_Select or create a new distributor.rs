@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select or create a new distributor</name>
+   <tag></tag>
+   <elementGuidId>2b6997c6-822e-4e2f-9ed0-416be3f49947</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select-selector</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Select or create a new distributor' or . = 'Select or create a new distributor')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c1821c95-11e8-4a48-be79-dca1b8c0c98e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selector</value>
+      <webElementGuid>53829f4c-bb9c-4139-9f2a-2b205aab7e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select or create a new distributor</value>
+      <webElementGuid>c7eb5533-e9cc-4cfc-9831-09199c225cdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customers&quot;)/div[@class=&quot;indexstyle__DivInventoryDeployment-pt__sc-1nlz5zm-10 gnRBwT&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-10 ant-col-xl-7&quot;]/div[@class=&quot;ant-row ant-form-item ant-form-item-has-success&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;select-without-autofill&quot;]/div[@class=&quot;ant-select w-100 ant-select-single ant-select-show-arrow ant-select-open ant-select-show-search&quot;]/div[@class=&quot;ant-select-selector&quot;]</value>
+      <webElementGuid>20124459-378f-48ac-8f1f-0b11992bcb59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select or create a new distributor' or . = 'Select or create a new distributor')]</value>
+      <webElementGuid>ba2d881a-34e7-4520-ad2b-8639d6685b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='customers']/div/div/div/div/div/div/div[2]/div/div/span/div/div</value>
+      <webElementGuid>5edacd57-3e62-4043-a643-160b157c5736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distributor:'])[1]/following::div[5]</value>
+      <webElementGuid>7dd2136a-b02a-4a64-9ed5-d8ca22ddcded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ha OEM'])[1]/following::div[15]</value>
+      <webElementGuid>ecfa40fa-b450-4e6d-b43f-ded2ca222a20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Row'])[1]/preceding::div[1]</value>
+      <webElementGuid>6c61047b-8cc5-4ed6-aa4a-f1b361a179c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div</value>
+      <webElementGuid>6b465d01-5a7a-4e2e-85c4-60c42e3c70ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

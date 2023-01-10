@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "70D302BC9D2B694557D661C623E859D2",
+  "keywordClasses": [
+    {
+      "name": "utils.getRandom",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

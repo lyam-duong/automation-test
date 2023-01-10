@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_lyautomationampup.io_ant-select-select_14c301</name>
+   <tag></tag>
+   <elementGuidId>ad15c6e7-fb7f-4ef4-ae68-9f3a5f8efd0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.w-100.ant-select-single.ant-select-show-arrow.ant-select-open.ant-select-show-search > div.ant-select-selector > span.ant-select-selection-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/section/section/main/div/div/div/div/form/div/div/div[7]/div/div[2]/div/div/div/div[1]/div/div/div/div/span/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>94e578fe-37f9-44d8-8ae5-27a9d7ea2ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>fc7d231f-1eb4-47b0-be52-75ef4f69e4f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;indexstyle__DivDeploymentWrapper-pt__sc-1nlz5zm-1 flfHaT&quot;]/div[@class=&quot;indexstyle__DivLocationInfoWrapper-pt__sc-1nlz5zm-2 indexstyle__DevCreateInventoryOrderInfoWrapper-pt__sc-1nlz5zm-3 gFpcHV jSmTBT m-auto&quot;]/form[@class=&quot;ant-form ant-form-horizontal ant-form-hide-required-mark form-locations box-container&quot;]/div[@class=&quot;ant-row justify-content-center&quot;]/div[@class=&quot;ant-col ant-col-20&quot;]/div[@class=&quot;form-item-wrapper position-relative&quot;]/div[@class=&quot;ant-row ant-form-item mb-0&quot;]/div[@class=&quot;ant-col ant-col-24 ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-13&quot;]/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-col-24 ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;select-without-autofill&quot;]/div[@class=&quot;ant-select w-100 ant-select-single ant-select-show-arrow ant-select-open ant-select-show-search&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-item&quot;]</value>
+      <webElementGuid>2681d451-b34e-4852-bdcc-f9174f06d10d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div/div/div/div/form/div/div/div[7]/div/div[2]/div/div/div/div/div/div/div/div/span/div/div/span[2]</value>
+      <webElementGuid>118559e7-293e-4dfc-8e87-916c9eee4fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/span/div/div/span[2]</value>
+      <webElementGuid>1c0be41a-0fce-46a9-8d9e-6deec97f1a1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

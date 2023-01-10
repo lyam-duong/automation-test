@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_id_1673329028</name>
+   <tag></tag>
+   <elementGuidId>1d66ca8a-bc77-44b9-ac1d-6b3aed68fee2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-col.ant-col-8.d-block.is-border.text-break</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'id_1673329028 ' or . = 'id_1673329028 ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7de5cd2b-6472-43de-9262-e3343e1dca26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-col ant-col-8 d-block is-border text-break</value>
+      <webElementGuid>0b62c3ca-7bce-4383-a920-7f093592ea17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>id_1673329028 </value>
+      <webElementGuid>283d9a7a-f268-4ce3-b09b-3b6ce8aebdc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;indexstyle__DivScanCompleted-sc-oou7u2-0 cfSuVX animate__animated animate__fadeIn montserrat&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;job-detail py-4&quot;]/div[@class=&quot;ant-row job-detail-row&quot;]/div[@class=&quot;ant-col ant-col-8 d-block is-border text-break&quot;]</value>
+      <webElementGuid>e8c5842d-d6a4-489b-b4b4-33642491c1ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'id_1673329028 ' or . = 'id_1673329028 ')]</value>
+      <webElementGuid>d6aa7193-14f6-498f-8971-919f87ec18f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div[2]/div[2]/div[3]</value>
+      <webElementGuid>52c59c30-ac6b-4eb7-99aa-064ad2a713d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMPJ-1673329028'])[1]/following::div[1]</value>
+      <webElementGuid>1a496c89-2b95-4ad1-b78d-a1278117836e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[4]</value>
+      <webElementGuid>8bc68ad3-186b-40f5-9ef9-cff8d75bbeaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='deployments@ampup.io'])[1]/preceding::div[3]</value>
+      <webElementGuid>f4767eb8-fa1c-4888-bdfb-18e5af0d4b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='id_1673329028']/parent::*</value>
+      <webElementGuid>89d8d308-2b44-443c-806f-289e34263a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>bfed57dc-b073-4974-9989-faee88b5d60c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

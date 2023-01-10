@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>firstKanbanCard</name>
+   <tag></tag>
+   <elementGuidId>69bf73f1-cd90-4059-a7dd-4a80df476a2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kanban']/div/div/div/div[2]/div/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.react-kanban-column:first-child div:nth-child(2) > div:first-child</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>38a09584-af66-49df-aae3-f418994c4b91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-container</value>
+      <webElementGuid>14b150b3-d482-4ca3-9991-2417aa3f5944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Order #1200dd24Automation Test# of Ports: 1 Locations: Automation Test - Betsy SauerStatus: In queueNext Step: Please fill out Commissioning FormOrder Started: Jul 22</value>
+      <webElementGuid>f805e4a0-08ba-44e6-bfae-dbea7d40ce29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kanban&quot;)/div[@class=&quot;react-kanban-board&quot;]/div[1]/div[@class=&quot;react-kanban-column&quot;]/div[2]/div[1]/div[1]/div[@class=&quot;indexstyle__DivCard-pt__sc-1ozv1qb-1 ehXGNS kanban-cards shadow order-status-queue site-dropdown-context-menu active&quot;]/a[1]/div[@class=&quot;card-container&quot;]</value>
+      <webElementGuid>2e262b4b-163b-44da-bb5d-30cd4e4b4743</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kanban']/div/div/div/div[2]/div/div/div/a/div</value>
+      <webElementGuid>37f34a2a-c2ab-48e3-b43b-768241de1acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QUEUE (12)'])[1]/following::div[5]</value>
+      <webElementGuid>4b834cde-66b1-4609-9dea-2dce9354dc74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ha Admin'])[1]/following::div[19]</value>
+      <webElementGuid>bd4c5123-3f49-4450-b79d-210b5d2cef62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>500c9c54-7108-47ad-be52-1b8d3dc45874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Order #1200dd24Automation Test# of Ports: 1 Locations: Automation Test - Betsy SauerStatus: In queueNext Step: Please fill out Commissioning FormOrder Started: Jul 22' or . = ' Order #1200dd24Automation Test# of Ports: 1 Locations: Automation Test - Betsy SauerStatus: In queueNext Step: Please fill out Commissioning FormOrder Started: Jul 22')]</value>
+      <webElementGuid>e43dff91-4f42-407b-8e2a-2db426a873ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

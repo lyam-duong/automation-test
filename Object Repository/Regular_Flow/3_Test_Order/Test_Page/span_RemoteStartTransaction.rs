@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_RemoteStartTransaction</name>
+   <tag></tag>
+   <elementGuidId>ec108db4-b8ec-4273-abf1-4bebd04939fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@title = 'RemoteStartTransaction' and (text() = 'RemoteStartTransaction' or . = 'RemoteStartTransaction')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-lg.mr-3.ant-select-single.ant-select-show-arrow.ant-select-open > div.ant-select-selector > span.ant-select-selection-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a1fb1cb5-51e5-4f86-a7f8-57d20a282acf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>6ff01e93-cea2-47ad-94b1-71e1970a6402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>RemoteStartTransaction</value>
+      <webElementGuid>e92d4ec4-c912-48ed-b76e-7802c739031d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RemoteStartTransaction</value>
+      <webElementGuid>c5e3a648-a777-491e-b721-e8bc810f18b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;ant-row mt-3&quot;]/div[@class=&quot;ant-col ant-col-24 mb-4 ant-col-lg-18&quot;]/div[@class=&quot;data-center mt-3 justify-content-center&quot;]/div[@class=&quot;ant-select ant-select-lg mr-3 ant-select-single ant-select-show-arrow ant-select-open&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-item&quot;]</value>
+      <webElementGuid>9fc6b01b-a0d5-4221-9904-3de3f88b2063</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div/div[2]/div[3]/div/div/span[2]</value>
+      <webElementGuid>d1711125-9b88-4fdf-a5d7-7ef644830f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#12953fc1'])[1]/following::span[4]</value>
+      <webElementGuid>0afc45a9-a97d-4a59-a21f-c21bcd7e71ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send'])[1]/preceding::span[3]</value>
+      <webElementGuid>a2de52df-407f-4c10-a4e4-127bdcc8d27d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONNECT/ DISCONNECT TIMESTAMPS'])[1]/preceding::span[4]</value>
+      <webElementGuid>804221ed-7234-4638-a50c-d2d09caef94b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='RemoteStartTransaction']/parent::*</value>
+      <webElementGuid>e1217e44-dc06-438b-bc24-684464a9c9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span[2]</value>
+      <webElementGuid>143033e9-6392-43c3-8967-77fbb156c3f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'RemoteStartTransaction' and (text() = 'RemoteStartTransaction' or . = 'RemoteStartTransaction')]</value>
+      <webElementGuid>42820143-e1b5-4078-be3a-c986e5747153</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

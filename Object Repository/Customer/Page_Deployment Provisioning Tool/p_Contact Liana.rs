@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Contact Liana</name>
+   <tag></tag>
+   <elementGuidId>6485cc5b-6102-4ab0-9e1a-04d0eb500e75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = ' Contact: Liana' or . = ' Contact: Liana')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bcbdbe44-6bb2-49f9-9f8f-f1576c2c49b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>indexstyle__DivTextWrapper-pt__sc-yci0m8-0 iZqTEQ _p secondary-text d-flex align-items-center </value>
+      <webElementGuid>6cc16000-07de-452e-9d28-99149828dc63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Contact: Liana</value>
+      <webElementGuid>e702e1ab-7d67-4274-9b3f-81fcac72d6e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;indexstyle__DivCustomerListWrapper-pt__sc-1y1tn00-0 kheJPy&quot;]/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-row customer-wrapper&quot;]/div[@class=&quot;ant-col ant-col-24 ant-col-lg-12&quot;]/div[@class=&quot;indexstyle__DivCustomerCard-pt__sc-1y1tn00-2 kyxPzS box-container tx-detail-gray box-container__active&quot;]/div[@class=&quot;ant-row card-details&quot;]/div[@class=&quot;ant-col ant-col-12 ant-col-xl-16&quot;]/div[@class=&quot;mb-2 d-flex align-items-baseline&quot;]/p[@class=&quot;indexstyle__DivTextWrapper-pt__sc-yci0m8-0 iZqTEQ _p secondary-text d-flex align-items-center&quot;]</value>
+      <webElementGuid>5e32e336-1e98-47a6-8855-9472c336cc2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Contact: Liana' or . = ' Contact: Liana')]</value>
+      <webElementGuid>965c1e12-e05b-4c82-8cfe-0b163ea3f907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div/div/div/div/div/div/div/div[2]/div/div/p</value>
+      <webElementGuid>132270c3-bd7e-4c8c-9a40-986535417636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lyam 2 Test - Cartwright - Wuckert'])[1]/following::p[2]</value>
+      <webElementGuid>56e3b03d-5dff-4b9d-8057-5069bd342f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ha Admin'])[1]/following::p[3]</value>
+      <webElementGuid>d390a0ed-50af-4790-8fbc-29ae232dfd8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contact:']/parent::*</value>
+      <webElementGuid>c07712bf-e300-4996-a113-5fa8de502d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/p</value>
+      <webElementGuid>78867602-2a2e-44a3-829a-9a28bf803336</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

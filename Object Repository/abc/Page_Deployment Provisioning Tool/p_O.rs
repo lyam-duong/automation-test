@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_O</name>
+   <tag></tag>
+   <elementGuidId>f524ecbc-806e-40fa-8cea-e3db433e6bcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'O' or . = 'O')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0f1c26a4-f60e-4936-9187-d875b3bba349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>initial </value>
+      <webElementGuid>7926dd3e-1ee9-4865-8221-5ada983e4faf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>O</value>
+      <webElementGuid>1d32ccad-5a24-49be-b40f-7924e71bbaed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/header[@class=&quot;ant-layout-header header&quot;]/div[@class=&quot;h-100 data-center justify-content-between justify-content-md-end&quot;]/div[@class=&quot;indexstyle__DivTopBarRightWrapper-pt__sc-14j2cqw-1 gDroxQ topbar-right mr-3&quot;]/div[@class=&quot;ant-dropdown-trigger col user-menu-dropdown&quot;]/div[@class=&quot;rounded-circle text-center d-flex m-auto justify-content-center align-items-center&quot;]/p[@class=&quot;initial&quot;]</value>
+      <webElementGuid>72accd11-30fa-4bff-aadc-88bf3bf80d02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'O' or . = 'O')]</value>
+      <webElementGuid>81b516d5-f863-43c4-b69f-5920322ff89f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/header/div/div[2]/div[2]/div/p</value>
+      <webElementGuid>6c9de8af-6d53-439e-a4c4-83da787d26c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OEM Ha Tran (Joint Tech)'])[1]/following::p[1]</value>
+      <webElementGuid>d43fd913-6f12-42e4-8ce8-6d408f9d2b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW ORDERS'])[1]/preceding::p[1]</value>
+      <webElementGuid>e92d74c6-c30a-45e4-974f-8584b20aa035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST ORDERS'])[1]/preceding::p[1]</value>
+      <webElementGuid>b204efd0-b30b-4eba-a997-aafa26a0c095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='O']/parent::*</value>
+      <webElementGuid>e884cc04-57ae-43f0-bbb9-27ad28a5f19c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>6fce5484-0bfe-455c-ad24-7c62fde2623d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

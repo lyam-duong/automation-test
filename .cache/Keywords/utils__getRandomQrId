@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "75B3C508D2C82275ECF8FF94E434BBD6",
+  "keywordClasses": [
+    {
+      "name": "utils.getRandomQrId",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

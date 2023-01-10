@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_IPLPHBSCAK</name>
+   <tag></tag>
+   <elementGuidId>384c3cfd-26a9-45c2-ac99-a311ff7e13bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'IPLPHBSCAK' or . = 'IPLPHBSCAK')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-tooltip-open</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dbed0c90-f309-472b-865f-750a982093f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-tooltip-open</value>
+      <webElementGuid>26b3c6e7-8c55-4166-bbd3-caefaaa1faeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IPLPHBSCAK</value>
+      <webElementGuid>9fadb901-7ccd-4cbc-a035-f411fac10365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;indexstyle__DivChargingStationWrapper-pt__sc-1lfsp9r-0 gYDNZJ&quot;]/div[@class=&quot;mx-auto charging-stations&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-18&quot;]/div[@class=&quot;gutter-row box-container d-flex justify-content-between flex-column&quot;]/div[@class=&quot;indexstyle__DivTableContentWrapper-pt__sc-1lfsp9r-2 kxwWTH&quot;]/div[@class=&quot;mt-4 mb-4&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;indexstyle__DivAntTableWrapper-pt__sc-rbdnka-0 dvoTDN&quot;]/div[@class=&quot;ant-table-wrapper charging-stations-table&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-ping-right ant-table-fixed-header ant-table-fixed-column ant-table-scroll-horizontal ant-table-has-fix-left&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-body&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-ellipsis ant-table-cell-row-hover&quot;]/span[@class=&quot;ant-tooltip-open&quot;]</value>
+      <webElementGuid>f7d596da-b78f-4c9f-a722-0f67354c2937</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'IPLPHBSCAK' or . = 'IPLPHBSCAK')]</value>
+      <webElementGuid>c28f6218-88fd-4a83-8643-20d9ef2cc2d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div/div/div/div/div/div/div/form/div/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[3]/span</value>
+      <webElementGuid>e5894697-02ab-4673-a3eb-fb1473663937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IPLPHBSCAK'])[1]/following::span[1]</value>
+      <webElementGuid>d51a1d6b-841a-4774-96d0-155b077aa89c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MODEL'])[1]/following::span[9]</value>
+      <webElementGuid>20816a41-aa6e-449b-abd6-7093cf88a95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::span[1]</value>
+      <webElementGuid>1b4651d8-a190-4b00-a2ae-0d05e9c8e7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IPLPHBSCAK'])[3]/preceding::span[1]</value>
+      <webElementGuid>c378d343-217f-4676-b6f8-599b578bfe2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/span</value>
+      <webElementGuid>41b44c5a-8eb0-43d2-bc9a-b44f9c6c84e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

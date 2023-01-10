@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_07272022</name>
+   <tag></tag>
+   <elementGuidId>73751a0f-5c5d-4c98-88aa-d0354c7698ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = '07/27/2022' or . = '07/27/2022')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>10bc41f4-6410-4a5a-9657-2299b1ca7552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-table-cell ant-table-cell-ellipsis ant-table-cell-row-hover</value>
+      <webElementGuid>bffc4243-49d6-4cb2-99a0-3f43970e990c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>07/27/2022</value>
+      <webElementGuid>1ab77693-485a-40c3-90e7-8469721d3dfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;indexstyle__DivChargingStationWrapper-pt__sc-1lfsp9r-0 gYDNZJ&quot;]/div[@class=&quot;mx-auto charging-stations&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-18&quot;]/div[@class=&quot;gutter-row box-container d-flex justify-content-between flex-column&quot;]/div[@class=&quot;indexstyle__DivTableContentWrapper-pt__sc-1lfsp9r-2 kxwWTH&quot;]/div[@class=&quot;mt-4 mb-4&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;indexstyle__DivAntTableWrapper-pt__sc-rbdnka-0 dvoTDN&quot;]/div[@class=&quot;ant-table-wrapper charging-stations-table&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-ping-left ant-table-ping-right ant-table-fixed-header ant-table-fixed-column ant-table-scroll-horizontal ant-table-has-fix-left&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-body&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-ellipsis ant-table-cell-row-hover&quot;]</value>
+      <webElementGuid>57e0f5e8-8f6f-487c-a465-8f5f155a64ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '07/27/2022' or . = '07/27/2022')]</value>
+      <webElementGuid>d8a783c2-1438-4efd-b9d5-2239540b096c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div/div/div/div/div/div/div/form/div/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[12]</value>
+      <webElementGuid>96374931-cc56-495f-a0c8-1f2f5a08d9ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/following::td[1]</value>
+      <webElementGuid>01b49c54-3448-4627-91f5-39cef943f870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test - Leanna'])[1]/following::td[2]</value>
+      <webElementGuid>cdcac8d1-79d6-4afb-b55c-c2099312f3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test'])[1]/preceding::td[1]</value>
+      <webElementGuid>2c45f791-e7ed-41b6-a5bf-bd1ee40e793a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LITE'])[1]/preceding::td[2]</value>
+      <webElementGuid>5e2edf6a-cadb-4a62-b391-d7b3a3bed24a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='07/27/2022']/parent::*</value>
+      <webElementGuid>7ef326aa-64b8-4f19-b328-9b8a39092ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[12]</value>
+      <webElementGuid>35de36e6-4037-4890-93e5-3b07b9de0b44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

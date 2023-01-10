@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Billing Contact Name_ant-switch-handle</name>
+   <tag></tag>
+   <elementGuidId>0f1fdd61-6c40-4cc3-ba1c-52623e813700</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='customers']/div[7]/div[2]/div/div/div/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-switch-handle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1670b194-e299-454f-be6b-df81c4c76d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-switch-handle</value>
+      <webElementGuid>873cf30a-735a-4b91-a5a7-09f811c9920b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customers&quot;)/div[@class=&quot;indexstyle__DivFormItemLabelWrapper-pt__sc-30ql0i-0 bksure ant-row ant-form-item&quot;]/div[@class=&quot;ant-col-16 ant-form-item-control-wrapper ant-col-16 ant-input-order&quot;]/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/button[@class=&quot;ant-switch ant-switch-checked&quot;]/div[@class=&quot;ant-switch-handle&quot;]</value>
+      <webElementGuid>4290ded0-bdac-44e7-ac7d-58c0027496a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='customers']/div[7]/div[2]/div/div/div/div/button/div</value>
+      <webElementGuid>8a702d04-b803-45f9-b757-d58295bfbd8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>7fc44bbf-50d7-4018-bda6-3a157af713e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
